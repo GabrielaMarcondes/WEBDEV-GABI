@@ -1,0 +1,10 @@
+body {
+    background: #ffffcc;
+     }
+.cabecalho{
+    background: #0000ff
+}
+h1{
+    color: #b41616
+    font-size: 30px;
+}
